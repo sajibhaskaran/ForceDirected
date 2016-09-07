@@ -14,6 +14,6 @@ https://raw.githubusercontent.com/DealPete/forceDirected/master/countries.json
 
 ### Demo:
 
-Github: https://sajibhaskaran.github.io/ForceDirected
+Github.io: https://sajibhaskaran.github.io/ForceDirected
 
-CodePen: http://codepen.io/sajman/pen/qNPJwP.
+CodePen.io: http://codepen.io/sajman/pen/qNPJwP.
